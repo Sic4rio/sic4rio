@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sic4rio
 - 👀 I’m interested in all things technology especially breaking stuff!
-- 🌱 I’m currently learning Python and Pentesting 
+- 🌱 I’m currently learning exploitation and vulnerabilities  
 - 💞️ I’m looking to collaborate on any fun projects! 
 - 📫 How to reach me ... @sic4ri0 << instagram 
 
