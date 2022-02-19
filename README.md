@@ -1,5 +1,5 @@
-- Cyber @sic4rio
-- 📫 How to reach me ... @sic4ri0 << instagram 
+
+- 📫 How to reach me ... Nicholas Bousamra << instagram << Linkedin 
 
 <!---
 sic4rio/sic4rio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
