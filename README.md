@@ -44,7 +44,7 @@ I'm a Red team Operator based in Australia 🇦🇺
 
 <p align="right" >
 <img alt="SIC4RI0's github stats" src="https://github-readme-stats.vercel.app/api?username=sic4rio&show_icons=true&theme=merko"    
-<p align="left"><img alt="SIC4RI0's github stats" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif?cid=ecf05e47w2xmn6nou8d4z97kdax11vdjp74p6tzwgf899ijv&rid=giphy.gif&ct=s"   height="250px" width="450px">
+<p align="left"><img alt="SIC4RI0's github stats" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif?cid=ecf05e47w2xmn6nou8d4z97kdax11vdjp74p6tzwgf899ijv&rid=giphy.gif&ct=s"   height="250px" width="250px">
 </p>
 
 ⭐️ ----> (https://github.com/sic4rio)
