@@ -36,15 +36,15 @@ I'm a Red team Operator based in Australia 🇦🇺
 
 - 🔭 I’m currently working on BSCP.
 - 🌱 Also learning about Malware Development.
-- 🤔 I’m not active on here and usually keep this for private use.
-- 💬 My Github is more a personal repository so judge all you want...
-- ⚡ Fun fact: 2=1
+- 🤔 I’m not active on here and usually keep this for private use so judge all you want...
+- 💬 DM on IG 
+- ⚡ Fun fact: I like computers more than i like people.
 
 
 
 <p align="right" >
 <img alt="SIC4RI0's github stats" src="https://github-readme-stats.vercel.app/api?username=sic4rio&show_icons=true&theme=merko"    
-<p align="left"><img alt="SIC4RI0's github stats" src="https://c.tenor.com/HUEHzmmCFXEAAAAC/ghost-walk-through-closed-doors.gif"   height="250px" width="450px">
+<p align="left"><img alt="SIC4RI0's github stats" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif?cid=ecf05e47w2xmn6nou8d4z97kdax11vdjp74p6tzwgf899ijv&rid=giphy.gif&ct=s"   height="250px" width="450px">
 </p>
 
 ⭐️ ----> (https://github.com/sic4rio)
