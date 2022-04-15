@@ -49,7 +49,7 @@ I'm a Red team Operator based in Australia 🇦🇺
 
 ⭐️ ----> (https://github.com/sic4rio)
                        
- <a href="https://instagram.com/sic4ri0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sic4ri0" height="25" width="25" /></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/sic4ri0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="25" width="25" /></a>&nbsp;&nbsp;
 
 
 
