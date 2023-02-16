@@ -1,7 +1,7 @@
 
 <p align="Center" ><img src="https://c.tenor.com/0btUcFSNOlEAAAAC/anonymous-anonymous-logo.gif" height="350px" width ="750px"></p>
 
-<h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> i Like To Hack Things. <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
+<h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> i Like To Hack Things <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 ```zsh
 > neofetch
