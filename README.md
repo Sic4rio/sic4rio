@@ -1,7 +1,7 @@
 
 <p align="Center" ><img src="https://c.tenor.com/0btUcFSNOlEAAAAC/anonymous-anonymous-logo.gif" height="350px" width ="750px"></p>
 
-<h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> .. <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
+<h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> .I Like To Hack Things. <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 ```zsh
 > neofetch
@@ -34,11 +34,11 @@ Languages  :  C, Bash, Python, HTML, Javascript
 
 I'm a Red team Operator based in Australia 🇦🇺
 
-- 🔭 I’m currently working on BSCP.
-- 🌱 Also learning about Malware Development.
+- 🔭 I’m currently working on Everything.
+- 🌱 Love learning about Malware Development.
 - 🤔 I’m not active on here and usually keep this for private use so judge all you want...
-- 💬 DM on IG 
-- ⚡ Fun fact: I like computers more than i like people.
+- 💬 DM me. 
+- ⚡ Fun fact: It’s impossible to hum while holding your nose.
 
 
 
