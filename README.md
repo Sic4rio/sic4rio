@@ -36,7 +36,7 @@ I'm a Red team Operator based in Australia 🇦🇺
 
 - 🔭 I’m currently working on Everything.
 - 🌱 Love learning about Malware Development.
-- 🤔 I’m not active on here and usually keep this for private use so judge all you want...
+- 🤔 I’m not active on here and keep this for private use...
 - 💬 DM me. 
 - ⚡ Fun fact: It’s impossible to hum while holding your nose.
 
