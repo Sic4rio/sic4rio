@@ -7,7 +7,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://img.favpng.com/19/2/8/cannabis-sativa-vector-graphics-image-medical-cannabis-png-favpng-2WATmR6iCiVXDz8RYjX40knh0.jpg" alt="logo.png" width="200" /> 
 
 ```csharp
 sic4rio@github
