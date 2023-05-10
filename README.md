@@ -1,5 +1,5 @@
 
-<p align="Center" ><img src="https://c.tenor.com/0btUcFSNOlEAAAAC/anonymous-anonymous-logo.gif](https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" height="350px" width ="750px"></p>
+<p align="Center" ><img src="https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" height="350px" width ="750px"></p>
 
 <h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> I Love Breaking Shit <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
