@@ -7,7 +7,7 @@
 > neofetch
 ```
 
- "<img src="https://github.com/Sic4rio/sic4rio/blob/main/pngegg.png?raw=true" alt="logo.png" width="200" /> 
+ "<img align="left" src="https://github.com/Sic4rio/sic4rio/blob/main/pngegg.png?raw=true" alt="logo.png" width="200" /> 
 
 ```csharp
 sic4rio@github
