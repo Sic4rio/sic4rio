@@ -7,7 +7,7 @@
 > neofetch
 ```
 
- src="<img src="https://www.kindpng.com/picc/m/111-1117726_marijuana-leaf-png-png-download-transparent-weed-leaf.png" alt="logo.png" width="200" /> 
+ "<img src="https://p1.hiclipart.com/preview/444/354/328/cannabis-leaf-cannabis-sativa-sticker-hash-oil-420-day-hemp-bong-hashish-png-clipart.jpg" alt="logo.png" width="200" /> 
 
 ```csharp
 sic4rio@github
