@@ -7,7 +7,7 @@
 > neofetch
 ```
 
-<img align="left" src="<img src="https://www.kindpng.com/picc/m/111-1117726_marijuana-leaf-png-png-download-transparent-weed-leaf.png" alt="logo.png" width="200" /> 
+ src="<img src="https://www.kindpng.com/picc/m/111-1117726_marijuana-leaf-png-png-download-transparent-weed-leaf.png" alt="logo.png" width="200" /> 
 
 ```csharp
 sic4rio@github
