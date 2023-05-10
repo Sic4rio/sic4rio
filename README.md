@@ -7,7 +7,7 @@
 > neofetch
 ```
 
- "<img src="https://p1.hiclipart.com/preview/444/354/328/cannabis-leaf-cannabis-sativa-sticker-hash-oil-420-day-hemp-bong-hashish-png-clipart.jpg" alt="logo.png" width="200" /> 
+ "<img src="https://github.com/Sic4rio/sic4rio/blob/main/pngegg.png?raw=true" alt="logo.png" width="200" /> 
 
 ```csharp
 sic4rio@github
