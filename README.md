@@ -3,9 +3,9 @@
 
 <h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> I Love Breaking Shit <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
-```zsh
-> neofetch
-```
+    ```zsh
+    > neofetch
+    ```
 
  <img align="left" src="https://github.com/Sic4rio/sic4rio/blob/main/pngegg.png?raw=true" alt="logo.png" width="300" /> 
 
