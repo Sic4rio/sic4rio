@@ -31,8 +31,10 @@ Languages  :  C, Bash, Python, HTML, Javascript
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
 </p>
+<b>
 
 I'm a Red team Operator based in Australia 🇦🇺
+</b>
 
 - 🔭 I’m currently working on Everything.
 - 🌱 Love learning about Malware Development.
