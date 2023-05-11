@@ -48,7 +48,8 @@ I'm a Red team Operator based in Australia 🇦🇺
 <img alt="SIC4RI0's github stats" src="https://github-readme-stats.vercel.app/api?username=sic4rio&show_icons=true&theme=merko"    
 <p align="left"><img alt="SIC4RI0's github stats" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif?cid=ecf05e47w2xmn6nou8d4z97kdax11vdjp74p6tzwgf899ijv&rid=giphy.gif&ct=s"   height="250px" width="250px">
 </p>
- <script src="https://tryhackme.com/badge/358803"></script>
+<img src="https://tryhackme.com/badge/358803" alt="TryHackMe">
+ 
 ⭐️ ----> (https://github.com/sic4rio)
                        
  <a href="https://instagram.com/sic4ri0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="25" width="25" /></a>&nbsp;&nbsp;
