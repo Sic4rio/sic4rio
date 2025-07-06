@@ -19,7 +19,7 @@ I'm a **Red Teamer** 🇦🇺 based in Australia with a passion for offensive se
 -   🔭 **Focus:** Malware Development, Bug Bounty Hunting, and Penetration Testing.
 -   🤔 **Note:** This profile is used for private research and project collaboration.
 -   💬 **Contact:** Open to DMs for interesting projects or inquiries.
--   ⚡ **Alias:** *Sicario* - An effective operator.
+-   ⚡ **Alias:** *Sicario* - Hired assassin or hitman.
 
 <br clear="left"/>
 
