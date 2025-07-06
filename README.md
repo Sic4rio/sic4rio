@@ -1,61 +1,91 @@
+<p align="center">
+  <img src="https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" alt="Watch Dogs 2 DedSec GIF" width="750px">
+</p>
 
-<p align="Center" ><img src="https://media.tenor.com/FcA59Dz2qf0AAAAC/watch-dogs2-dedsec.gif" height="350px" width ="750px"></p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Sicario;Red+Teamer+%7C+Malware+Dev;Bug+Bounty+Hunter" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h1 align="Center"><img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" Hi There width="40px"> Welcome To My Github <img src="https://c.tenor.com/TTAYwCe6NvUAAAAi/insanity-security-hackers-spinning.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="Sicari0" /> </p>
-    ```zsh
-    > neofetch
-    ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sic4rio/Sic4rio/main/divider.gif" width="100%">
+</p>
 
- <img align="left" src="https://github.com/Sic4rio/sic4rio/blob/main/pngegg.png?raw=true" alt="logo.png" width="300" /> 
+## **About Me** 👨‍💻 
 
+I'm a **Red Teamer** 🇦🇺 based in Australia with a passion for offensive security and adversarial simulation.
+
+-   🔭 **Focus:** Malware Development, Bug Bounty Hunting, and Penetration Testing.
+-   🤔 **Note:** This profile is used for private research and project collaboration.
+-   💬 **Contact:** Open to DMs for interesting projects or inquiries.
+-   ⚡ **Alias:** *Sicario* - An effective operator.
+
+<br clear="left"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sic4rio/Sic4rio/main/divider.gif" width="100%">
+</p>
+
+## **Platforms & Connect** 🌐
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Sic4rio-1B283D?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+  </a>
+    
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-GFXHack-88a1b2?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/>
+  </a>
+    
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20%40sic4ri0-000000?style=for-the-badge&logo=x" alt="Twitter"/>
+  </a>
+    
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-sic4ri0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sic4rio/Sic4rio/main/divider.gif" width="100%">
+</p>
+
+## **GitHub Stats & Trophies** 🏆
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sic4rio&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sic4rio&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="SIC4RI0's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sic4rio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sic4rio/Sic4rio/main/divider.gif" width="100%">
+</p>
+
+## **My Arsenal** 🛠️
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,bash,kali,docker,git" />
+</p>
+
+<div align="center">
+<img align="left" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif" width="250px">
+    
 ```csharp
 sic4rio@github
-----------------
-
-       OS  :  macOS arm64
-       WM  :  anon
-    Shell  :  zsh 666
- Terminal  :  TmuX
-      CPU  :  Apple M1
-    Alias  :  cs/checksum
-Languages  :  C, Bash, Python, HTML, Javascript
-  ID  :  6660001337000666
+---------------------------
+    OS         : macOS arm64
+    WM         : anon
+    Shell      : zsh 666
+    Terminal   : TmuX
+    CPU        : Apple M1
+    Alias      : cs/checksum
+    Languages  : PowerShell, C, Bash, Python, HTML, Javascript
+    ID         : 6660001337000666
 ```
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
-  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
-  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
-  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
-  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
-</p>
-<b>
-
-I'm a Red teamer based in Australia 🇦🇺
-</b>
-
-- 🔭 Bug Hunter- Mal Dev - Skid Killer.
-- 🤔 I’m not active on here and keep this for private use...
-- 💬 DM me. 
-- ⚡ Sicario: A hired gunman or assassin.
-
-<p align="right" >
-<img alt="SIC4RI0's github stats" src="https://github-readme-stats.vercel.app/api?username=sic4rio&show_icons=true&theme=merko"    
-<p align="left"><img alt="SIC4RI0's github stats" src="https://media3.giphy.com/media/88vMJxUXNizmviXHiG/giphy.gif?cid=ecf05e47w2xmn6nou8d4z97kdax11vdjp74p6tzwgf899ijv&rid=giphy.gif&ct=s"   height="250px" width="250px">
-</p>
- <img src="https://tryhackme-badges.s3.amazonaws.com/GFXHack.png" alt="TryHackMe">
-
-                       
- <a href="https://instagram.com/sic4ri0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="25" width="25" /></a>&nbsp;&nbsp;
-
-
-
-  
-  
-  
-  
-  
-  
-  
